@@ -76,9 +76,9 @@
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(508, 243);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(77, 13);
+            this.label2.Size = new System.Drawing.Size(84, 13);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Anju Chawla";
+            this.label2.Text = "Luis Acevedo";
             // 
             // groupBox1
             // 
@@ -178,12 +178,14 @@
             this.printToolStripMenuItem.Name = "printToolStripMenuItem";
             this.printToolStripMenuItem.Size = new System.Drawing.Size(162, 22);
             this.printToolStripMenuItem.Text = "&Print Selected";
+            this.printToolStripMenuItem.Click += new System.EventHandler(this.printSelectedToolStripMenuItem_Click);
             // 
             // previewSelectedToolStripMenuItem
             // 
             this.previewSelectedToolStripMenuItem.Name = "previewSelectedToolStripMenuItem";
             this.previewSelectedToolStripMenuItem.Size = new System.Drawing.Size(162, 22);
             this.previewSelectedToolStripMenuItem.Text = "Pre&view Selected";
+            this.previewSelectedToolStripMenuItem.Click += new System.EventHandler(this.previewSelectedToolStripMenuItem_Click);
             // 
             // printAllFlavoursToolStripMenuItem
             // 
@@ -199,12 +201,14 @@
             this.printAllToolStripMenuItem.Name = "printAllToolStripMenuItem";
             this.printAllToolStripMenuItem.Size = new System.Drawing.Size(132, 22);
             this.printAllToolStripMenuItem.Text = "&Print All";
+            this.printAllToolStripMenuItem.Click += new System.EventHandler(this.printAllToolStripMenuItem_Click);
             // 
             // previewAllToolStripMenuItem
             // 
             this.previewAllToolStripMenuItem.Name = "previewAllToolStripMenuItem";
             this.previewAllToolStripMenuItem.Size = new System.Drawing.Size(132, 22);
             this.previewAllToolStripMenuItem.Text = "Pre&view All";
+            this.previewAllToolStripMenuItem.Click += new System.EventHandler(this.previewAllToolStripMenuItem_Click);
             // 
             // toolStripSeparator1
             // 
@@ -233,25 +237,28 @@
             this.addCoffeeFlavourToolStripMenuItem.Name = "addCoffeeFlavourToolStripMenuItem";
             this.addCoffeeFlavourToolStripMenuItem.Size = new System.Drawing.Size(197, 22);
             this.addCoffeeFlavourToolStripMenuItem.Text = "&Add Coffee Flavour";
+            this.addCoffeeFlavourToolStripMenuItem.Click += new System.EventHandler(this.addCoffeeFlavourToolStripMenuItem_Click);
             // 
             // removeCoffeeFlavourToolStripMenuItem
             // 
             this.removeCoffeeFlavourToolStripMenuItem.Name = "removeCoffeeFlavourToolStripMenuItem";
             this.removeCoffeeFlavourToolStripMenuItem.Size = new System.Drawing.Size(197, 22);
             this.removeCoffeeFlavourToolStripMenuItem.Text = "&Remove Coffee Flavour";
+            this.removeCoffeeFlavourToolStripMenuItem.Click += new System.EventHandler(this.removeCoffeeFlavourToolStripMenuItem_Click);
             // 
             // clearCoffeeListToolStripMenuItem
             // 
             this.clearCoffeeListToolStripMenuItem.Name = "clearCoffeeListToolStripMenuItem";
             this.clearCoffeeListToolStripMenuItem.Size = new System.Drawing.Size(197, 22);
             this.clearCoffeeListToolStripMenuItem.Text = "&Clear Coffee List";
-           
+            this.clearCoffeeListToolStripMenuItem.Click += new System.EventHandler(this.clearCoffeeListToolStripMenuItem_Click);
             // 
             // countCoffeeListToolStripMenuItem
             // 
             this.countCoffeeListToolStripMenuItem.Name = "countCoffeeListToolStripMenuItem";
             this.countCoffeeListToolStripMenuItem.Size = new System.Drawing.Size(197, 22);
             this.countCoffeeListToolStripMenuItem.Text = "Count Coffee &List";
+            this.countCoffeeListToolStripMenuItem.Click += new System.EventHandler(this.countCoffeeListToolStripMenuItem_Click);
             // 
             // helpToolStripMenuItem
             // 

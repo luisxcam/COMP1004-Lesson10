@@ -10,3 +10,9 @@ H:\achawla\RAD2014\Monday\Lesson7_CoffeeFlavours\Lesson7_CoffeeFlavours\obj\Debu
 I:\GITHUB\COMP1004-Lesson10\Lesson7_CoffeeFlavours\Lesson7_CoffeeFlavours\bin\Debug\Lesson7_CoffeeFlavours.exe.config
 I:\GITHUB\COMP1004-Lesson10\Lesson7_CoffeeFlavours\Lesson7_CoffeeFlavours\obj\Debug\Lesson7_CoffeeFlavours.exe
 I:\GITHUB\COMP1004-Lesson10\Lesson7_CoffeeFlavours\Lesson7_CoffeeFlavours\obj\Debug\Lesson7_CoffeeFlavours.pdb
+I:\GITHUB\COMP1004-Lesson10\Lesson7_CoffeeFlavours\Lesson7_CoffeeFlavours\bin\Debug\Lesson7_CoffeeFlavours.exe
+I:\GITHUB\COMP1004-Lesson10\Lesson7_CoffeeFlavours\Lesson7_CoffeeFlavours\bin\Debug\Lesson7_CoffeeFlavours.pdb
+I:\GITHUB\COMP1004-Lesson10\Lesson7_CoffeeFlavours\Lesson7_CoffeeFlavours\obj\Debug\Lesson7_CoffeeFlavours.csprojResolveAssemblyReference.cache
+I:\GITHUB\COMP1004-Lesson10\Lesson7_CoffeeFlavours\Lesson7_CoffeeFlavours\obj\Debug\Lesson7_CoffeeFlavours.CoffeeFlavoursForm.resources
+I:\GITHUB\COMP1004-Lesson10\Lesson7_CoffeeFlavours\Lesson7_CoffeeFlavours\obj\Debug\Lesson7_CoffeeFlavours.Properties.Resources.resources
+I:\GITHUB\COMP1004-Lesson10\Lesson7_CoffeeFlavours\Lesson7_CoffeeFlavours\obj\Debug\Lesson7_CoffeeFlavours.csproj.GenerateResource.Cache
